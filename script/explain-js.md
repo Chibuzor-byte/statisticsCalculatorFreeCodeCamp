@@ -48,7 +48,7 @@ const getMedian = (array) => {
 
 // array stays the same.
 
-sorted becomes a new array with elements sorted.
+// sorted becomes a new array with elements sorted.
 
 //(a, b) => a - b
 
