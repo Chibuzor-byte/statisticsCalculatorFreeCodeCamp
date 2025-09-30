@@ -73,3 +73,7 @@ const getMedian = (array) => {
 
 ```
 
+### Mode Function
+
+
+
